@@ -23,7 +23,7 @@ Desenvolvedor Full Stack na Officecom, apaixonado por desafios técnicos e boas 
 
 ## 🌎 Redes sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarciodiniz)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tarcioely)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eusoutarcio)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TarcioDiniz&icon=0&color=0)](https://visitcount.itsvg.in)
