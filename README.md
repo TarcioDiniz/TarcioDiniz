@@ -1,51 +1,20 @@
-# 👨‍💻 Sobre mim
+## Tarcio Diniz
 
-Sou **Desenvolvedor Backend Python**, com cerca de **2 anos de experiência em desenvolvimento de software**, atuando em projetos reais de ponta a ponta — da concepção ao deploy em produção.
+Desenvolvedor fullstack. Trabalho com Angular no frontend e com Laravel e .NET no backend.
 
-Minha trajetória começou com atuação **fullstack**, o que me proporcionou uma visão sólida de produto e sistemas completos. Atualmente, estou **especializando minha carreira em Backend**, com foco no desenvolvimento de **APIs REST**, **arquitetura de software**, **boas práticas de engenharia** e construção de sistemas escaláveis e bem estruturados.
+Hoje estou no frontend da Action Labs. Antes, fiquei quase 3 anos na OfficeCom construindo sistemas de ponta a ponta.
 
-Tenho experiência prática com **integrações entre sistemas**, **bancos de dados SQL e NoSQL**, **observabilidade**, além de participação em projetos que envolveram **IA aplicada**, OCR e automações.  
-Atualmente curso **Ciência da Computação** e sigo em aprendizado contínuo nas áreas de **Backend Python, Engenharia de Software, Ciência de Dados e Engenharia de IA**.
+### Stack
 
----
+- Frontend: Angular, TypeScript, React, Tailwind CSS
+- Backend: Laravel (PHP), .NET (C#), Node.js, Python
+- Dados e infra: MySQL, PostgreSQL, MongoDB, Redis, Docker, Traefik, Azure DevOps
+- IA: agentes, MCP, n8n, OpenAI
 
-## 🚀 Tecnologias e foco atual
+### Projeto em destaque
 
-### 🧠 Backend & Engenharia de Software
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+Laços Luiza, plataforma de uma loja em produção. Vitrine em Angular 21 com SSR, painel em Angular com signals, API REST em Laravel 13 com Sanctum, MySQL, Redis e storage S3, testes em Pest e deploy com Docker e Traefik. O código é privado.
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+### Contato
 
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 🧩 Experiência complementar (base fullstack)
-Essas tecnologias fazem parte da minha bagagem e visão sistêmica:
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
----
-
-## 📊 Estatísticas do GitHub
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TarcioDiniz&theme=github_dark)
-
----
-
-## 🌎 Vamos nos conectar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarciodiniz)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white)](https://instagram.com/eusoutarcio)
-
----
-[![](https://visitcount.itsvg.in/api?id=TarcioDiniz&icon=0&color=0)](https://visitcount.itsvg.in)
+[LinkedIn](https://www.linkedin.com/in/tarciodiniz) · tarciodiniz0@gmail.com
