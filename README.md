@@ -13,7 +13,7 @@ Hoje estou no frontend da Action Labs. Antes, fiquei quase 3 anos na OfficeCom c
 - Frontend: Angular, TypeScript, React, Tailwind CSS
 - Backend: Laravel (PHP), .NET (C#), Node.js, Python
 - Dados e infra: MySQL, PostgreSQL, MongoDB, Redis, Docker, Traefik, Azure DevOps
-- IA: agentes, MCP, n8n, OpenAI
+- IA: Claude e Claude Code (skills, agentes, MCP), engenharia de prompt, n8n, OpenAI
 
 ### Projeto em destaque
 
