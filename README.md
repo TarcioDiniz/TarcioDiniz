@@ -4,9 +4,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Desenvolvedor+Fullstack;Angular+%C2%B7+Laravel+%C2%B7+.NET;IA+no+desenvolvimento" alt="Desenvolvedor Fullstack, Angular, Laravel, .NET, IA no desenvolvimento" />
 </p>
 
-Desenvolvedor fullstack. Trabalho com Angular no frontend e com Laravel e .NET no backend.
+Desenvolvedor fullstack em Campina Grande (PB). Trabalho com Angular no frontend e com Laravel e .NET no backend.
 
 Hoje estou no frontend da Action Labs. Antes, fiquei quase 3 anos na OfficeCom construindo sistemas de ponta a ponta.
+
+### Sites para negócios
+
+Também faço sites para negócios de todo o Brasil em [tarciodiniz.com](https://tarciodiniz.com), feitos para o celular, com o WhatsApp a um toque e preparados para o Google e para assistentes de IA. O código do site está em [TarcioDiniz/tarciodiniz.com](https://github.com/TarcioDiniz/tarciodiniz.com).
 
 ### Stack
 
@@ -26,4 +30,4 @@ Laços Luiza, plataforma de uma loja em produção. Vitrine em Angular 21 com SS
 
 ### Contato
 
-[LinkedIn](https://www.linkedin.com/in/tarciodiniz) · tarciodiniz0@gmail.com
+[tarciodiniz.com](https://tarciodiniz.com) · [LinkedIn](https://www.linkedin.com/in/tarciodiniz) · [Instagram](https://www.instagram.com/eusoutarcio/) · tarciodiniz0@gmail.com
